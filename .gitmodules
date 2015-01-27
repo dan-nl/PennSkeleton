@@ -1,3 +1,3 @@
 [submodule "lib/Penn"]
 	path = lib/Penn
-	url = git@github.com:dan-nl/PennFramework.git
+	url = git@github.com:dan-nl/PennlineFramework.git
