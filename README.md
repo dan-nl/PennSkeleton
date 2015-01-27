@@ -1,5 +1,5 @@
-## PennSkeleton
-provides a skeleton framework for developing a php application with the [PennFramework][1].
+## PennlineSkeleton
+provides a skeleton framework for developing a php application with the [PennlineFramework][1].
 
 
 ### setting up a project
@@ -7,7 +7,7 @@ provides a skeleton framework for developing a php application with the [PennFra
    * `mkdir /path/to/your/project`
 
 1. clone the repo into that directory with as little history as possible
-   * `git clone --depth 1 https://github.com/dan-nl/PennSkeleton.git /path/to/your/project`
+   * `git clone --depth 1 https://github.com/dan-nl/PennlineSkeleton.git /path/to/your/project`
    * `cd /path/to/your/project`
 
 1. remove the github remote
@@ -29,4 +29,4 @@ provides a skeleton framework for developing a php application with the [PennFra
    * `git remote add github git@github.com:<your-github-username>/<github-project-name>.git`
    * `git push -u github master`
 
-[1]: https://github.com/dan-nl/PennFramework
+[1]: https://github.com/dan-nl/PennlineFramework
